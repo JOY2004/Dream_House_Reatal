@@ -22,7 +22,7 @@ MySQL 5.x
 ## Installation and Setup
 
 1. Fork this repository.
-2. Clone this repository: git clone https://github.com/your-username/DreamHome-DBMS.git
+2. Clone this repository:  git clone https://github.com/JOY2004/Dream_House_Reatal.git
 3. Install Python and MySQL if not already installed.
 4. Create a MySQL database using the provided SQL code in the SQL Queries folder by running the ```setup.sql``` and ```insert.sql``` codes.
 5. Update the config.py file with your MySQL credentials.
