@@ -28,10 +28,6 @@ MySQL 5.x
 5. Update the config.py file with your MySQL credentials.
 6. Run the main.py file to launch the DreamHome DBMS application.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributors
 
 Ashish Joy
