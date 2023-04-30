@@ -34,17 +34,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributors
 
-Ashish Jadhawar 
-21bcs015@iiitdwd.ac.in
-
-Ashish Lal 
-21bcs017@iiitdwd.ac.in
-
-Abhishikt Mahajan
-21bcs060@iiitdwd.ac.in
-
-Aditya Dev 
-21bcs004@iiitdwd.ac.in
-
-Aditya Sethiya
-21bcs005@iiitdwd.ac.in
+Ashish Joy
+21bcs016@iiitdwd.ac.in
+C B Nagarathana 
+21bcs023@iitdwd.ac.in
+Deepika Taalawar 
+21bcs030@iitdwd.ac.in
